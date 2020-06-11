@@ -7,10 +7,11 @@ p {
     color: red;
 }
 
-h1 {
-<<<<<<< HEAD
+h2 {
   text-align: center;
-=======
-    font-family: monospace;
->>>>>>> style
+  color: green;
+}
+
+body {
+      font-family: sans-serif;
 }
