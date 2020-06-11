@@ -8,5 +8,9 @@ p {
 }
 
 h1 {
+<<<<<<< HEAD
   text-align: center;
+=======
+    font-family: monospace;
+>>>>>>> style
 }
