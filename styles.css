@@ -1,6 +1,7 @@
 h1 {
     color: #8c34eb;
     text-align: center;
+    font-family: monospace;
 }
 
 p {
@@ -13,7 +14,7 @@ h2 {
 }
 
 body {
-      font-family: sans-serif;
+      font-family: monospace;
 }
 
 footer {
